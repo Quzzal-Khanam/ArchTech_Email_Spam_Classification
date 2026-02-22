@@ -19,8 +19,6 @@ This project is a Machine Learning application designed to automatically classif
 * `Seaborn/Matplotlib` (Visualization)
 * `Joblib` (Model Export)
 
-
-
 ## 📊 Dataset
 
 The model is trained on the **UCI SMS Spam Collection** dataset, which contains over 5,500 labeled messages.
@@ -43,16 +41,12 @@ pip install pandas scikit-learn matplotlib seaborn joblib
 
 ```
 
-
 2. **Run the script:**
 ```bash
 python email_spam_project.py
 
 ```
-
-
 3. **Predict:** Use the `check_with_probability()` function to test your own custom emails.
 
-3. Paste the text above into it.
 
-**Since we've finished the code, the evaluation, and the documentation, is your "Email Spam" project ready for submission, or would you like to add a "Task 2" to this project series?**
+
